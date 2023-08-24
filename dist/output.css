@@ -547,6 +547,15 @@ video {
   padding-right: 2.5rem;
 }
 
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-robert-size {
+  font-size: 4.5rem;
+}
+
 .link {
   font-weight: 500;
   --tw-text-opacity: 1;
