@@ -534,13 +534,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.link {
-  font-weight: 500;
-  --tw-text-opacity: 1;
-  color: rgb(30 58 138 / var(--tw-text-opacity));
-  text-decoration-line: underline;
-}
-
 .flex {
   display: flex;
 }
@@ -554,15 +547,9 @@ video {
   padding-right: 2.5rem;
 }
 
-.font-medium {
+.link {
   font-weight: 500;
-}
-
-.text-blue-900 {
   --tw-text-opacity: 1;
   color: rgb(30 58 138 / var(--tw-text-opacity));
-}
-
-.underline {
   text-decoration-line: underline;
 }
