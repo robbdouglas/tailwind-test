@@ -3,7 +3,7 @@ module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
     extend: {
-      fontSize: { "robert-size": "4.5rem" },
+      fontSize: { "robert-size": "32px" },
     },
   },
   plugins: [],
